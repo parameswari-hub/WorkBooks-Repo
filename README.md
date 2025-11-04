@@ -22,7 +22,7 @@ My practical work includes building pivot-driven dashboards and Excel reports, a
 ### Screenshot
 
 ![Alt text](Excel.png)
-[Excel screenshot](./Excel.png)
+[Excel screenshot](/Excel.png)
 
 ./Excel.png
 ---
@@ -37,7 +37,7 @@ My practical work includes building pivot-driven dashboards and Excel reports, a
 
 ### Screenshots
 Power BI:
-![Power BI screenshot](./PowerBI.png)
+![Power BI screenshot](/PowerBI.png)
 
 Tableau:
 ![Tableau screenshot](./Tableau.png)
