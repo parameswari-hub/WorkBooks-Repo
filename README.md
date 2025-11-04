@@ -1,9 +1,13 @@
+
+
 # WorkBooks-Repo
 My bootcamp projects
 ```markdown
-# 🎯 Bootcamp Week-by-Week Summaries (with screenshots)
 
-Below are concise summaries for each workbook/week plus embedded screenshots that visually represent the topic for that week.
+Introduction
+I recently completed a comprehensive data bootcamp where I gained hands-on experience across the end-to-end analytics lifecycle. I learned to clean and prepare data in Excel and Python, write efficient SQL queries to retrieve and aggregate information from relational databases, and design interactive dashboards with Power BI and Tableau so stakeholders can explore key metrics. I also worked with Azure cloud services to understand how to store and serve data for scalable analysis and reporting.
+My practical work includes building pivot-driven dashboards and Excel reports, automating data transforms with pandas, combining and summarizing data with joins and GROUP BY in SQL, and creating interactive, filterable dashboards for storytelling with Power BI and Tableau. I focus on clarity, reproducibility, and making data useful for decision-making.
+
 
 ---
 
