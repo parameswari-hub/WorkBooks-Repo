@@ -20,6 +20,8 @@ My practical work includes building pivot-driven dashboards and Excel reports, a
 - Key takeaways: how to prepare and summarize tabular data quickly, create repeatable reports with pivot tables, and use visualizations to highlight insights.
 
 ### Screenshot
+
+![Alt text](Excel.png)
 [Excel screenshot](./Excel.png)
 
 ./Excel.png
