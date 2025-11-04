@@ -21,10 +21,10 @@ My practical work includes building pivot-driven dashboards and Excel reports, a
 
 ### Screenshot
 
-![Alt text](Excel.png)
+[Alt text](Excel.png)
 [Excel screenshot](Excel.png)
 
-./Excel.png
+Excel.png
 ---
 
 <h2 style="font-size:1.45em">🟩 Week 2 — Power BI & Tableau</h2>
@@ -37,10 +37,10 @@ My practical work includes building pivot-driven dashboards and Excel reports, a
 
 ### Screenshots
 Power BI:
-![Power BI screenshot](/PowerBI.png)
+[Power BI screenshot](PowerBI.png)
 
 Tableau:
-![Tableau screenshot](./Tableau.png)
+[Tableau screenshot](./Tableau.png)
 
 ---
 
