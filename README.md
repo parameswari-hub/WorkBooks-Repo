@@ -20,8 +20,9 @@ My practical work includes building pivot-driven dashboards and Excel reports, a
 - Key takeaways: how to prepare and summarize tabular data quickly, create repeatable reports with pivot tables, and use visualizations to highlight insights.
 
 ### Screenshot
-![Excel screenshot](./Excel.png)
+[Excel screenshot](./Excel.png)
 
+./Excel.png
 ---
 
 <h2 style="font-size:1.45em">🟩 Week 2 — Power BI & Tableau</h2>
