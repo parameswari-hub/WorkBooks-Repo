@@ -55,7 +55,7 @@ Tableau:
 | **Query Fundamentals** |  `SELECT`, `WHERE`, `ORDER BY`           , aggregate functions (COUNT, SUM, AVG)         . |  I wrote queries to filter and aggregate large datasets, joined multiple tables to create combined reports, and utilized GROUP BY to produce summary metrics for business questions..|
 | **Advanced Queries** |  `JOIN` (INNER/LEFT/RIGHT)           , `GROUP BY`, `HAVING`           , and subqueries         . | I am proficient in translating business questions into effective SQL queries to retrieve accurate, aggregated results from databases. . |
 
-### Screenshot
+
 ![SQL Query Screenshot](./SQL.png)
 
 ---
@@ -68,7 +68,7 @@ Tableau:
 | **Cloud Services** |  Storage options (Blob, Data Lake)       , compute options (VMs, App Services)       , and managed data services (Azure SQL, Synapse)     . |  How cloud services fit into a data workflow for scalable analytics    . |
 | **Data Deployment** |  Intro to deploying data pipelines and storing datasets in the cloud      . |  Understanding where to host/process data and basic security/auth (service principals, keys). |
 
-### Screenshot
+
 ![Azure Project Screenshot](./Azure.png)
 
 ---
@@ -81,7 +81,7 @@ Tableau:
 | **Data Analysis** |  `pandas` (DataFrame operations, grouping, merging)          , data cleaning        . |  Manipulate and analyze datasets programmatically. |
 | **Scripting & Visuals** |  Basic plotting (matplotlib/seaborn)          , writing reusable functions and scripts        . |  Automate repetitive data tasks and prepare analysis-ready data for reporting. |
 
-### Screenshot
+
 ![Python Script or Notebook Output Screenshot](./Python.png)
 ![Python Script or Notebook Output Screenshot](./Python2.png)
 
