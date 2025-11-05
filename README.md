@@ -22,8 +22,8 @@ My practical work includes:
 
 | Topic | Core Skills | Key Takeaways |
 | :--- | :--- | :--- |
-| **Data Preparation** | [cite_start]Excel formulas (SUM, AVERAGE, IF) [cite: 4][cite_start], data cleaning (text-to-columns, remove duplicates) [cite: 4][cite_start], and conditional formatting[cite: 4]. | [cite_start]How to prepare and summarize tabular data quickly[cite: 6]. |
-| **Reporting & Visuals** | [cite_start]Pivot tables [cite: 4] [cite_start]and basic charts (bar, line, pie)[cite: 4]. | [cite_start]Create repeatable reports with pivot tables and use visualizations to highlight insights[cite: 6]. |
+| **Data Preparation** |  Excel formulas (SUM, AVERAGE, IF)    , data cleaning (text-to-columns, remove duplicates)  , and conditional formatting  . |  How to prepare and summarize tabular data quickly. |
+| **Reporting & Visuals** |  Pivot tables     and basic charts (bar, line, pie)  . |  Create repeatable reports with pivot tables and use visualizations to highlight insights . |
 
 ### Screenshot
 ![Excel Project Screenshot: Product Revenue and Age Group Comparison](./Excel.png)
@@ -35,8 +35,8 @@ My practical work includes:
 
 | Topic | Core Skills | Key Takeaways |
 | :--- | :--- | :--- |
-| **Modeling & Visualization** | [cite_start]Connecting to data sources [cite: 7][cite_start], data modeling basics (relationships) [cite: 7][cite_start], and creating visualizations (bar/line/maps/heatmaps)[cite: 7]. | [cite_start]How to build interactive reports that let stakeholders explore data[cite: 9]. |
-| **Interactivity** | [cite_start]Filters & slicers [cite: 7][cite_start], publishing/sharing dashboards [cite: 7][cite_start], and storytelling through multiple linked visualizations[cite: 8]. | [cite_start]Understanding the differences/strengths of Power BI and Tableau for dashboarding and visual analysis[cite: 9]. |
+| **Modeling & Visualization** |  Connecting to data sources    , data modeling basics (relationships)    , and creating visualizations (bar/line/maps/heatmaps)  . |  How to build interactive reports that let stakeholders explore data   . |
+| **Interactivity** |  Filters & slicers    , publishing/sharing dashboards    , and storytelling through multiple linked visualizations. |  Understanding the differences/strengths of Power BI and Tableau for dashboarding and visual analysis   . |
 
 ### Screenshots
 Power BI:
@@ -52,8 +52,8 @@ Tableau:
 
 | Topic | Core Skills | Key Takeaways |
 | :--- | :--- | :--- |
-| **Query Fundamentals** | [cite_start]`SELECT`, `WHERE`, `ORDER BY` [cite: 10][cite_start], aggregate functions (COUNT, SUM, AVG)[cite: 10]. | [cite_start]Ability to translate business questions into SQL queries[cite: 12]. |
-| **Advanced Queries** | [cite_start]`JOIN` (INNER/LEFT/RIGHT) [cite: 10][cite_start], `GROUP BY`, `HAVING` [cite: 10][cite_start], and subqueries[cite: 10]. | [cite_start]Retrieve accurate, aggregated results from relational databases[cite: 12]. |
+| **Query Fundamentals** |  `SELECT`, `WHERE`, `ORDER BY`           , aggregate functions (COUNT, SUM, AVG)         . |  Ability to translate business questions into SQL queries . |
+| **Advanced Queries** |  `JOIN` (INNER/LEFT/RIGHT)           , `GROUP BY`, `HAVING`           , and subqueries         . |  Retrieve accurate, aggregated results from relational databases . |
 
 ### Screenshot
 ![SQL Query Screenshot](./SQL.png)
@@ -65,8 +65,8 @@ Tableau:
 
 | Topic | Core Skills | Key Takeaways |
 | :--- | :--- | :--- |
-| **Cloud Services** | [cite_start]Storage options (Blob, Data Lake) [cite: 13][cite_start], compute options (VMs, App Services) [cite: 13][cite_start], and managed data services (Azure SQL, Synapse)[cite: 13]. | [cite_start]How cloud services fit into a data workflow for scalable analytics[cite: 16]. |
-| **Data Deployment** | [cite_start]Intro to deploying data pipelines and storing datasets in the cloud[cite: 14]. | [cite_start]Understanding where to host/process data and basic security/auth (service principals, keys)[cite: 16, 15]. |
+| **Cloud Services** |  Storage options (Blob, Data Lake)       , compute options (VMs, App Services)       , and managed data services (Azure SQL, Synapse)     . |  How cloud services fit into a data workflow for scalable analytics    . |
+| **Data Deployment** |  Intro to deploying data pipelines and storing datasets in the cloud      . |  Understanding where to host/process data and basic security/auth (service principals, keys). |
 
 ### Screenshot
 ![Azure Project Screenshot](./Azure.png)
@@ -78,8 +78,8 @@ Tableau:
 
 | Topic | Core Skills | Key Takeaways |
 | :--- | :--- | :--- |
-| **Data Analysis** | [cite_start]`pandas` (DataFrame operations, grouping, merging) [cite: 17][cite_start], data cleaning[cite: 17]. | [cite_start]Manipulate and analyze datasets programmatically[cite: 19]. |
-| **Scripting & Visuals** | [cite_start]Basic plotting (matplotlib/seaborn) [cite: 17][cite_start], writing reusable functions and scripts[cite: 17]. | [cite_start]Automate repetitive data tasks and prepare analysis-ready data for reporting[cite: 19]. |
+| **Data Analysis** |  `pandas` (DataFrame operations, grouping, merging)          , data cleaning        . |  Manipulate and analyze datasets programmatically. |
+| **Scripting & Visuals** |  Basic plotting (matplotlib/seaborn)          , writing reusable functions and scripts        . |  Automate repetitive data tasks and prepare analysis-ready data for reporting. |
 
 ### Screenshot
 ![Python Script or Notebook Output Screenshot](./Python.png)
