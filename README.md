@@ -5,7 +5,7 @@ This repository serves as a portfolio showcasing my hands-on experience and skil
 ---
 
 ## 🚀 Overview
-[cite_start]I learned to clean and prepare data in **Excel** and **Python** [cite: 2][cite_start], write efficient **SQL** queries to retrieve and aggregate information from relational databases [cite: 2][cite_start], and design interactive dashboards with **Power BI** and **Tableau**[cite: 2]. [cite_start]I also worked with **Azure** cloud services to understand how to store and serve data for scalable analysis and reporting[cite: 3].
+I learned to clean and prepare data in **Excel** and **Python** , write efficient **SQL** queries to retrieve and aggregate information from relational databases , and design interactive dashboards with **Power BI** and **Tableau**. I also worked with **Azure** cloud services to understand how to store and serve data for scalable analysis and reporting.
 
 My practical work includes:
 * Building pivot-driven dashboards and Excel reports.
