@@ -25,7 +25,7 @@ My practical work includes:
 | **Data Preparation** |  Excel formulas (SUM, AVERAGE, IF)    , data cleaning (text-to-columns, remove duplicates)  , and conditional formatting  . |  I can quickly prepare and summarize tabular data, create repeatable reports using pivot tables, and use visualizations effectively to highlight insights.|
 | **Reporting & Visuals** |  Pivot tables     and basic charts (bar, line, pie)  . |  Create repeatable reports with pivot tables and use visualizations to highlight insights . |
 
-### Screenshot
+
 ![Excel Project Screenshot: Product Revenue and Age Group Comparison](./Excel.png)
 
 ---
@@ -38,7 +38,7 @@ My practical work includes:
 | **Modeling & Visualization** |  Connecting to data sources    , data modeling basics (relationships)    , and creating visualizations (bar/line/maps/heatmaps)  . |  How to build interactive reports that let stakeholders explore data   . |
 | **Interactivity** |  Filters & slicers    , publishing/sharing dashboards    , and storytelling through multiple linked visualizations. | I can build interactive reports that empower stakeholders to explore data and understand the strengths of both Power BI and Tableau for visual analysis and dashboarding . |
 
-### Screenshots
+ 
 Power BI:
 ![Power BI Dashboard Screenshot](./PowerBI.png)
 
@@ -83,6 +83,7 @@ Tableau:
 
 ### Screenshot
 ![Python Script or Notebook Output Screenshot](./Python.png)
+![Python Script or Notebook Output Screenshot](./Python2.png)
 
 ---
 ***Note on Images:*** *For the screenshots to display correctly, please ensure the image files (e.g., `Excel.png`, `PowerBI.png`, etc.) are uploaded to the same directory as this `README.md` file.*
